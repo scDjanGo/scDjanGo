@@ -11,7 +11,7 @@
   <img style="margin: 10px" src="assets/svg/react.svg" alt="React" height="50" />
   <img style="margin: 10px" src="assets/svg/typescript.svg" alt="TypeScript" height="50" />
   <img style="margin: 10px" src="assets/svg/redux.svg" alt="Reudx" height="50" />
-  <img style="margin: 10px" src="assets/svg/nextjs.svg" alt="NextJS" height="50" />
+  <img style="margin; background-color: #ffffff;" src="assets/svg/nextjs.svg" alt="NextJS" height="50" />
 </div>
 
 ### Tools & Platforms:
