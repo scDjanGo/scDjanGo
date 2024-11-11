@@ -1,4 +1,4 @@
-# ***<div align="center">Hi world 👋 I'm a Frontend developer</div>***
+# **_<div align="center">Hi world 👋 I'm a Frontend developer</div>_**
 
 ### Front-End
 
@@ -11,6 +11,7 @@
   <img style="margin: 10px" src="assets/svg/react.svg" alt="React" height="50" />
   <img style="margin: 10px" src="assets/svg/typescript.svg" alt="TypeScript" height="50" />
   <img style="margin: 10px" src="assets/svg/redux.svg" alt="Reudx" height="50" />
+  <img style="margin: 10px" src="assets/svg/nextjs.svg" alt="NextJS" height="50" />
 </div>
 
 ### Tools & Platforms:
@@ -22,7 +23,6 @@
   <img style="margin: 10px" src="/assets/svg/github.svg" alt="github" height="50" />
   <img style="margin: 10px" src="/assets/svg/vscode.svg" alt="vscode" height="50" />
 </div>
-
 
 ###
 
