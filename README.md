@@ -26,7 +26,7 @@
 
 ### -->
 
-<p align="center">
+<p>
  <!-- <img width="100%" src="assets/svg/github-snake.svg" alt="snake"/> -->
   Web Developer
 </p>
