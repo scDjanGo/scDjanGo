@@ -28,7 +28,7 @@
 
 <p align="center">
  <!-- <img width="100%" src="assets/svg/github-snake.svg" alt="snake"/> -->
-  FrontEnd developer
+  Web Developer
 </p>
 
 ###
